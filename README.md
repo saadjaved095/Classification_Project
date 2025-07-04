@@ -28,17 +28,18 @@ streamlit run app.py
 
 ## 📦 Folder Structure
 
-iris-classifier/
- ┣ app.py
- ┣ requirements.txt
- ┗ README.md
+Classification_Project/
+ -Classification.py
+ -requirements.txt
+ -README.md
+ -sampledata.csv
 
 ## 🌐 Live App
 
 To deploy this on Streamlit Cloud:
 - Push to GitHub
 - Connect repo to https://streamlit.io/cloud
-- Select app.py to deploy
+- Select Classification.py to deploy
 
 ## 📚 Dataset Info
 
